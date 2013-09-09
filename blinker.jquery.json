@@ -1,0 +1,35 @@
+{
+    "name": "blinker",
+    "version": "1.0.0",
+    "title": "Text Blinker",
+    "description": "jQuery plugin to make your text goes blink blink. Inspired by blocklevel.nl",
+    "keywords": [
+        "animation",
+        "blink",
+        "light"
+    ],
+    "author" : {
+        "name": "Shulhi Sapli",
+        "email": "shulhi@gmail.com",
+        "url": "https://github.com/shulhi/Blinker"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "Shulhi Sapli",
+            "email": "shulhi@gmail.com",
+            "url": "http://shulhi.com"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7",
+        "jquery ui": ">=1.8"
+    },
+    "demo": "http://jsfiddle.net/shulhi/gZadq/1/embedded/result/",
+    "bugs": "https://github.com/shulhi/Blinker/issues"
+}
