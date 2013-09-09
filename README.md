@@ -27,9 +27,9 @@ $('.header').blinker();
 
 ### Options
 
-`interval` - How fast to blink in ms. Default is `200`
-`endcolor` - When you leave the cursor, this is the final color. Default is black `#000`
-`colors` - Arrays of colors to blink. The default are as below. Credit to [FlatUIColors](http://flatuicolors.com/)
+- `interval` - How fast to blink in ms. Default is `200`
+- `endcolor` - When you leave the cursor, this is the final color. Default is black `#000`
+- `colors` - Arrays of colors to blink. The default are as below. Credit to [FlatUIColors](http://flatuicolors.com/)
 
 ```
 Default colors
